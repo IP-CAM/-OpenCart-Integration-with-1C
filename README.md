@@ -1,5 +1,5 @@
 1c
-This is for integration OpenCart & 1C version 1.0
+This is for integration OpenCart & 1C beta-version 1.0
 
 <hr>
 <h1>Consist of:</h1>
